@@ -302,7 +302,8 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 ## Output screen shots of proteus  :
 
-![image](https://github.com/JivanKarthick/EXPERIMENT--03-SIMULATION-OF-PUSHBUTTON-AND-LED-WITH-PROTEUS-/assets/121165867/701e1acc-1bff-46db-a295-f007c2138d31)
+![Uploading image.png…]()
+
 
 
 
